@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add this CSS to your global styles or a specific CSS module */
+.scroll-container {
+  height: 19rem; /* Adjust height as needed */
+  overflow-y: auto; /* Enables vertical scrolling */
+}
+
+/* For WebKit browsers (Chrome, Safari) */
+.scroll-container::-webkit-scrollbar {
+  width: 8px; /* Set the width of the scrollbar */
+}
+
+.scroll-container::-webkit-scrollbar-thumb {
+  background-color: #ccc; /* Set the color of the scrollbar */
+  border-radius: 10px; /* Make it rounded */
+}
+
+.scroll-container::-webkit-scrollbar-track {
+  background: transparent; /* Set the background of the scrollbar track */
+}
+
+/* For Firefox */
+.scroll-container {
+  scrollbar-width: thin; /* Make scrollbar thin */
+  scrollbar-color: #ccc transparent; /* Set scrollbar color and track color */
+}
+
+
+/* global.css */
+
+.scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: #444CB4 #444CB4; /* Adjust colors as needed */
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: #1f2937; /* Adjust the track color */
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: #6b7280; /* Adjust the thumb color */
+    border-radius: 8px;
+    border: 2px solid #1f2937; /* Adjust the thumb border color */
+  }
+  
+
+
+  .thin-scrollbar {
+    scrollbar-width: thin;
+    scrollbar-color: #fff #ecf1f3; 
+  }
+  
+  .thin-scrollbar::-webkit-scrollbar {
+    width: 2px;
+  }
+  
+
+  .bottom-datepicker {
+    position: absolute;
+    bottom: -100%;  /* Ensure it opens below the input */
+  }
+  
+
+  @media (min-width: 1400px) {
+    .table-container {
+      overflow-x: auto;
+    }
+  }
+  
+  @media print {
+    body * {
+      visibility: hidden; /* Hide everything else on the page */
+    }
+  
+    #printable-section, #printable-section * {
+      visibility: visible; /* Show only the print content */
+    }
+  
+    #printable-section {
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+    }
+  }
+  
+  
+  li{
+    list-style-type: disc;
+  }
+
+  /* .custom-shadow {
+    box-shadow: 0px 2px 3px -1px rgba(0, 0, 0, 0.1), 
+                0px 1px 0px 0px rgba(25, 28, 33, 0.02), 
+                0px 0px 0px 1px rgba(25, 28, 33, 0.08);
+  } */
+  .custom-shadow {
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.20);
+
+  }
+
+  
+  
+
+  @keyframes slideInLeft {
+    from {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    to {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  
+/* custom-nprogress.css */
+
+#nprogress .bar {
+  height: 3px; /* Adjust the height as needed */
+  background: #29d; /* Customize the color if needed */
+}
+
+#nprogress .peg {
+  box-shadow: 0 0 10px #29d, 0 0 5px #29d; /* Optional: add a shadow effect */
+}
+
+#nprogress .spinner-icon {
+  border-top-color: #29d; /* Customize spinner color if needed */
+}
+
+#nprogress .spinner {
+  width: 40px; /* Adjust spinner size */
+  height: 40px; /* Adjust spinner size */
+  top: 50%; /* Center the spinner vertically */
+}
+/* Carousel.css */
+.custom-next-arrow,
+.custom-prev-arrow {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+}
+
+.custom-next-arrow::before,
+.custom-prev-arrow::before {
+  content: '';
+  display: none; /* Hide default arrow icons */
+}
+
+
+@font-face {
+  font-family: 'Pollinator';
+  src: url('/public/font/pollinator.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

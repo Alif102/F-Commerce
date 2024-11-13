@@ -1,0 +1,561 @@
+[
+    {
+      "id": 1,
+      "name": "Food",
+      "imageUrl": "/assets/Food.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mens Shoe",
+      "imageUrl": "/assets/Shoe.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Organic Food",
+      "imageUrl": "/assets/organic.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Womens Shoe",
+      "imageUrl": "/assets/women-shoe.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Womens Clothing",
+      "imageUrl": "/assets/women-clothing.png"
+    },
+    {
+      "id": 6,
+      "name": "Mens Clothing",
+      "imageUrl": "/assets/men-clothing.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kids Clothing",
+      "imageUrl": "/assets/kids-clothing.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sarees",
+      "imageUrl": "/assets/Sarees.png"
+    },
+    {
+      "id": 9,
+      "name": "Kurtis & Salwar Kameez",
+      "imageUrl": "/assets/Kurti.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Jeans & Trousers",
+      "imageUrl": "/assets/Jeans.png"
+    },
+    {
+      "id": 11,
+      "name": "Winter Wear",
+      "imageUrl": "/assets/Winter.png"
+    },
+    {
+      "id": 12,
+      "name": "Sleepwear & Loungewear",
+      "imageUrl": "/assets/Sleepwear.png"
+    },
+    {
+      "id": 13,
+      "name": "Ethnic Wear",
+      "imageUrl": "/assets/EthnicWear.png"
+    },
+    {
+      "id": 14,
+      "name": "Sportswear & Activewear",
+      "imageUrl": "/assets/Sportswear.png"
+    },
+    {
+      "id": 15,
+      "name": "Hijabs & Abayas",
+      "imageUrl": "/assets/Hijabs.png"
+    },
+    {
+      "id": 16,
+      "name": "Women’s Sandals & Heels",
+      "imageUrl": "/assets/womanshoe.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Kid's Shoes",
+      "imageUrl": "/assets/child_Shoe.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Boots",
+      "imageUrl": "/assets/Boot.png"
+    },
+    {
+      "id": 19,
+      "name": "Gold Jewelry",
+      "imageUrl": "/assets/Gold.png"
+    },
+    {
+      "id": 20,
+      "name": "Silver Jewelry",
+      "imageUrl": "/assets/Silver.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Costume Jewelry",
+      "imageUrl": "/assets/Costume.png"
+    },
+    {
+      "id": 22,
+      "name": "Watches",
+      "imageUrl": "/assets/Watches.png"
+    },
+    {
+      "id": 23,
+      "name": "Rings & Bracelets",
+      "imageUrl": "/assets/RingsBracelets.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Necklaces & Pendants",
+      "imageUrl": "/assets/NecklacesPendants.png"
+    },
+    {
+      "id": 25,
+      "name": "Sunglasses",
+      "imageUrl": "/assets/Sunglasses.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Hair Accessories",
+      "imageUrl": "/assets/HairAccessories.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Wallets & Belts",
+      "imageUrl": "/assets/WalletsBelts.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Handbags & Clutches",
+      "imageUrl": "/assets/HandbagsClutches.png"
+    },
+    {
+      "id": 29,
+      "name": "Skincare Products",
+      "imageUrl": "/assets/SkincareProducts.jpg"
+    },
+    {
+      "id": 30,
+      "name": " Makeup & Cosmetics",
+      "imageUrl": "/assets/MakeupCosmetics.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Lipsticks & Lip Care",
+      "imageUrl": "/assets/LipsticksLipCare.jpg"
+    },
+    {
+      "id": 32,
+      "name": " Face Masks & Serums",
+      "imageUrl": "/assets/FaceMasksSerums.jpg"
+    },
+    {
+      "id": 33,
+      "name": " Fragrances & Perfumes",
+      "imageUrl": "/assets/perfume.png"
+    },
+    {
+      "id": 34,
+      "name": " Hair Care Products",
+      "imageUrl": "/assets/CareProducts.png"
+    },
+    {
+      "id": 35,
+      "name": "Hair Color & Dyes",
+      "imageUrl": "/assets/HairColor&Dyes.png"
+    },
+    {
+      "id": 31,
+      "name": "Beard Grooming Kits",
+      "imageUrl": "/assets/BeardGroomingKits.png"
+    },
+    {
+      "id": 36,
+      "name": " Shaving Cream & Razors",
+      "imageUrl": "/assets/ShavingCream&Razors.png"
+    },
+    {
+      "id": 37,
+      "name": " Nail Care Products",
+      "imageUrl": "/assets/NailCareProducts.png"
+    },
+    {
+      "id": 38,
+      "name": " Bath & Body Products",
+      "imageUrl": "/assets/Bath&BodyProducts.png"
+    },
+    {
+      "id": 39,
+      "name": "Smartphones",
+      "imageUrl": "/assets/Smartphones.png"
+    },
+    {
+      "id": 40,
+      "name": "Tablets & iPads",
+      "imageUrl": "/assets/Tablets&iPads.png"
+    },
+    {
+      "id": 41,
+      "name": "Laptops",
+      "imageUrl": "/assets/Laptops.png"
+    },
+    {
+      "id": 42,
+      "name": "Desktop Computers",
+      "imageUrl": "/assets/DesktopComputers.png"
+    },
+    {
+      "id": 43,
+      "name": "Televisions & LED Screens",
+      "imageUrl": "/assets/Televisions&LEDScreens.png"
+    },
+    {
+      "id": 44,
+      "name": "Smart Watches & Wearables",
+      "imageUrl": "/assets/SmartWatches&Wearables.png"
+    },
+    {
+      "id": 45,
+      "name": "Power Banks",
+      "imageUrl": "/assets/PowerBanks.png"
+    },
+    {
+      "id": 46,
+      "name": "Bluetooth Speakers",
+      "imageUrl": "/assets/BluetoothSpeakers.png"
+    },
+    {
+      "id": 47,
+      "name": "Headphones & Earbuds",
+      "imageUrl": "/assets/Headphones&Earbuds.png"
+    },
+    {
+      "id": 48,
+      "name": "Gaming Consoles",
+      "imageUrl": "/assets/GamingConsoles.png"
+    },
+    {
+      "id": 49,
+      "name": "Cameras & Camcorders",
+      "imageUrl": "/assets/Cameras&Camcorders.png"
+    },
+    {
+      "id": 50,
+      "name": "Drones & Action Cameras",
+      "imageUrl": "/assets/Drones&ActionCameras.png"
+    },
+    {
+      "id": 51,
+      "name": " Mobile Covers & Cases",
+      "imageUrl": "/assets/MobileCovers&Cases.png"
+    },
+    {
+      "id": 52,
+      "name": "Chargers & Adapters",
+      "imageUrl": "/assets/Chargers&Adapters.png"
+    },
+    {
+      "id": 53,
+      "name": "USB Cables & Connectors",
+      "imageUrl": "/assets/USBCables&Connectors.png"
+    },
+    {
+      "id": 54,
+      "name": "Computer Keyboards & Mice",
+      "imageUrl": "/assets/ComputerKeyboards&Mice.png"
+    },
+    {
+      "id": 55,
+      "name": "Memory Cards & Storage Devices",
+      "imageUrl": "/assets/MemoryCards&StorageDevices.png"
+    },
+    {
+      "id": 56,
+      "name": "Printers & Scanners",
+      "imageUrl": "/assets/Printers&Scanners.png"
+    },
+    {
+      "id": 57,
+      "name": "Refrigerators",
+      "imageUrl": "/assets/Refrigerators.png"
+    },
+    {
+      "id": 58,
+      "name": "Washing Machines",
+      "imageUrl": "/assets/WashingMachines.png"
+    },
+    {
+      "id": 59,
+      "name": "Air Conditioners",
+      "imageUrl": "/assets/AirConditioners.png"
+    },
+    {
+      "id": 60,
+      "name": "Microwave Ovens",
+      "imageUrl": "/assets/MicrowaveOvens.png"
+    },
+    {
+      "id": 61,
+      "name": "Water Purifiers",
+      "imageUrl": "/assets/WaterPurifiers.png"
+    },
+    {
+      "id": 62,
+      "name": "Fans & Coolers",
+      "imageUrl": "/assets/Fans&Coolers.png"
+    },
+    {
+      "id": 63,
+      "name": "Home heaters",
+      "imageUrl": "/assets/Homeheaters.png"
+    },
+    {
+      "id": 64,
+      "name": "Vacuum Cleaners",
+      "imageUrl": "/assets/VacuumCleaners.png"
+    },
+    {
+      "id": 65,
+      "name": "Kitchen Hobs & Chimneys",
+      "imageUrl": "/assets/KitchenHobs&Chimneys.png"
+    },
+    {
+      "id": 66,
+      "name": "Sofas & Recliners",
+      "imageUrl": "/assets/Sofas&Recliners.png"
+    },
+    {
+      "id": 67,
+      "name": "Dining Tables",
+      "imageUrl": "/assets/DiningTables.png"
+    },
+    {
+      "id": 68,
+      "name": "Office Desks & Chairs",
+      "imageUrl": "/assets/OfficeDesks&Chairs.png"
+    },
+    {
+      "id": 69,
+      "name": "Curtains & Blinds",
+      "imageUrl": "/assets/Curtains&Blinds.png"
+    },
+    {
+      "id": 70,
+      "name": "Lighting & Lamps",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": 71,
+      "name": " Action Figures",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 72,
+      "name": "Board Games",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 73,
+      "name": "Dolls & Plush Toys",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 74,
+      "name": " Educational Toys",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 75,
+      "name": "Baby Strollers",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 76,
+      "name": "Car Seats",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 77,
+      "name": "Baby Clothing",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 78,
+      "name": "Diapers & Wipes",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 79,
+      "name": "Baby Feeding Bottles",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 80,
+      "name": "Baby Care Products",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+      "id": 81,
+      "name": "Health Monitoring Devices",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 82,
+      "name": "Yoga Mats & Accessories",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 83,
+      "name": "Home Gym Equipment",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 84,
+      "name": "Masks & Sanitizers",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 85,
+      "name": "First Aid Kits",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 86,
+      "name": "Hearing Aids",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 87,
+      "name": "Bicycles & Accessories",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 88,
+      "name": "Camping Tents",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 89,
+      "name": "Hiking Backpacks",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 90,
+      "name": "Footballs & Sports Shoes",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    {
+      "id": 91,
+      "name": "Badminton Rackets",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 92,
+      "name": "Cricket Equipment",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 93,
+      "name": "Gym Wear",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 94,
+      "name": "Books",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 95,
+      "name": "Stationary",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 96,
+      "name": "Car Tyres & Batteries",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 97,
+      "name": "Car Covers & Mats",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 98,
+      "name": "Bike Helmets & Jackets",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 99,
+      "name": "Car Cleaning Supplies",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    },
+    {
+      "id": 100,
+      "name": "Bike Accessories",
+      "imageUrl": "/assets/Lighting&Lamps.png"
+    }
+  ]
+  

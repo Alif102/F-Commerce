@@ -1,0 +1,142 @@
+
+[
+  {
+    "title": "Dashboard",
+    "path": "/dashboard",
+    "icon": "FaTachometerAlt"
+  },
+  {
+    "title": "Config",
+    "icon": "FaCogs",
+    "submenu": [
+      {
+        "title": "Business",
+        "path": "/config/business"
+      },
+      {
+        "title": "User",
+        "path": "/config/user"
+      },
+      {
+        "title": "Invoice",
+        "path": "/config/invoice"
+      },
+      {
+        "title": "Api",
+        "path": "/config/api"
+      },
+      {
+        "title": "SMS",
+        "path": "/config/sms"
+      },
+      {
+        "title": "Low Stock",
+        "path": "/config/low-stock"
+      }
+      
+    ]
+  },
+  {
+    "title": "Category",
+    "path": "/category",
+    "icon": "FaTags"
+  },
+  {
+    "title": "Product",
+    "icon": "FaBox",
+    "submenu": [
+      {
+        "title": "Create Product",
+        "path": "/product/create-product"
+      },
+      {
+        "title": "All Product",
+        "path": "/product/all-product"
+      },
+    
+     
+      {
+        "title": "Variation",
+        "path": "/product/variation"
+      },
+      {
+        "title": "Warehouse Location",
+        "path": "/product/warehouse-location"
+      }
+    ]
+  },
+  {
+    "title": "POS",
+    "path": "/pos",
+    "icon": "FaCashRegister"
+  },
+  
+  {
+    "title": "Order",
+    "path": "/order",
+    "icon": "FaShoppingCart"
+  },
+  {
+    "title": "Follow Up",
+    "path": "/follow-up",
+    "icon": "FaClipboardList"
+  },
+  {
+    "title": "Stock",
+    "icon": "FaWarehouse",
+    "submenu": [
+      {
+        "title": "Stock Adjust",
+        "path": "/stock/all"
+      },
+      {
+        "title": "Add Stock",
+        "path": "/stock/add"
+      },
+      {
+        "title": "Courier Return",
+        "path": "/Stock/CourierReturn"
+      }
+    ]
+  },
+ 
+
+ 
+  {
+    "title": "Profile",
+    "path": "/profile",
+    "icon": "FaUserGraduate"
+  },
+  {
+    "title": "Customer",
+    "path": "/customer",
+    "icon": "FaUser"
+  },
+  {
+    "title": "Payment",
+    "path": "/payment",
+    "icon": "FaCreditCard"
+  },
+  {
+    "title": "Marketing",
+    "icon": "FaBullhorn",
+    "submenu": [
+      {
+        "title": "SMS",
+        "path": "/marketing/sms"
+      },
+      {
+        "title": "SMS History",
+        "path": "/marketing/sms-history"
+      }
+    ]
+  },
+ 
+  {
+    "title": "Subscription",
+    "path": "/subscription",
+    "icon": "FaRegEnvelope"
+  }
+]
+
+

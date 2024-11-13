@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1001,
+      "phone": "+1234567890",
+      "package": "Basic",
+      "date": "2024-09-26",
+      "referralPercentage": "10%",
+      "amount": "$100"
+    },
+    {
+      "id": 1004,
+      "phone": "+1234567890",
+      "package": "Basic",
+      "date": "2024-09-26",
+      "referralPercentage": "30%",
+      "amount": "$100"
+    },
+    {
+      "id": 1006,
+      "phone": "+1234567890",
+      "package": "Basic",
+      "date": "2024-09-26",
+      "referralPercentage": "50%",
+      "amount": "$100"
+    },
+    {
+      "id": 1004,
+      "phone": "+1234567890",
+      "package": "Basic",
+      "date": "2024-09-26",
+      "referralPercentage": "30%",
+      "amount": "$100"
+    },
+    {
+      "id": 1005,
+      "phone": "+1234567890",
+      "package": "Basic",
+      "date": "2024-09-26",
+      "referralPercentage": "10%",
+      "amount": "$100"
+    },
+    {
+      "id": 1002,
+      "phone": "+1987654321",
+      "package": "Standard",
+      "date": "2024-09-25",
+      "referralPercentage": "15%",
+      "amount": "$150"
+    }
+  ]
+  

@@ -1,0 +1,109 @@
+[
+    {
+   "title": "Dashboard",
+   "icon": "FaTachometerAlt",
+   "path": "/dashboard"
+ },
+  
+   {
+     "title": "Config",
+     "icon": "FaCog",
+     "subTitles": [
+       { "title": "User", "path": "/config/user" },
+       { "title": "Business", "path": "/config/business" },
+       { "title": "API", "path": "/config/api" },
+       { "title": "Invoice", "path": "/config/invoice" },
+       { "title": "SMS", "path": "/config/sms" },
+       { "title": "Low Stock", "path": "/config/low-stock" }
+     ]
+   },
+  
+   {
+     "title": "Category",
+     "icon": "FaTags",
+     "path": "/pages/category"
+   },
+   {
+     "title": "Product",
+     "icon": "FaBox",
+     "subTitles": [
+       { "title": "All Product", "path": "/product/all-product" },
+       { "title": "Create Product", "path": "/product/create-product" },
+       { "title": "Variation", "path": "/product/variation" }
+     ]
+   },
+   {
+     "title": "Order",
+     "icon": "FaShoppingCart",
+     "path": "/order"
+   },
+   {
+     "title": "Follow Up",
+     "icon": "FaPhoneAlt",
+     "path": "/follow-up"
+   },
+   {
+     "title": "POS",
+     "icon": "FaCashRegister",
+     "path": "/pos"
+   },
+   {
+     "title": "Stock",
+     "icon": "FaWarehouse",
+      "path": "stock/allstock" 
+   },
+   {
+     "title": "Marketing",
+     "icon": "FaBullhorn",
+     "subTitles": [
+       { "title": "SMS", "path": "/marketing/sms" },
+       { "title": "SMS History", "path": "/marketing/sms-history" }
+     ]
+   },
+   {
+     "title": "Analytics",
+     "icon": "FaChartLine",
+     "subTitles": [
+       { "title": "Report", "path": "/analytics/report" },
+       { "title": "Sales Target", "path": "/analytics/salestarget" }
+     ]
+   },
+   {
+     "title": "Access",
+     "icon": "FaLock",
+     "path": "/access"
+   },
+   {
+     "title": "Customer",
+     "icon": "FaUser",
+     "path": "/customer/customer"
+   },
+   {
+     "title": "Profile",
+     "icon": "FaUserCircle",
+     "path": "profile/profile"
+    
+   },
+   {
+     "title": "Notice",
+     "icon": "FaBell",
+     "path": "/notice"
+   },
+   {
+     "title": "Payment",
+     "icon": "FaMoneyBillWave",
+     "path": "/payment"
+   },
+   {
+     "title": "Referral",
+     "icon": "FaUserFriends",
+     "path": "/referral/referral"
+   },
+   {
+     "title": "Subscription",
+     "icon": "FaCreditCard",
+     "path": "/subscription"
+   }
+   
+ ]
+ 

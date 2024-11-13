@@ -1,0 +1,22 @@
+
+.slick-next:before {
+    font-family:initial!important;
+    color:rgb(238, 229, 229); 
+  border-radius: 30px;
+    padding: 5px;
+    background: skyblue;
+    
+}
+.slick-prev:before
+ {
+
+    font-family:initial!important;
+    color:rgb(238, 229, 229); 
+  border-radius: 30px;
+    padding: 5px;
+    /* margin-right: 15px; */
+    background: skyblue;
+    
+    
+}
+  
